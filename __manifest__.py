@@ -4,18 +4,18 @@
     'summary': "Enhances HR work entries with additional tracking and customization",
 
     'description': """
-This module extends the standard Odoo Work Entry functionality.
-It allows additional customization, tracking, and control over employee
-work entries to better support HR and payroll operations.
+    This module extends the standard Odoo Work Entry functionality.
+    It allows additional customization, tracking, and control over employee
+    work entries to better support HR and payroll operations.
 
-Key Features:
-- Extend existing work entry records
-- Add custom fields or logic if required
-- Improve visibility and management of employee attendance data
-    """,
+    Key Features:
+    - Extend existing work entry records
+    - Add custom fields or logic if required
+    - Improve visibility and management of employee attendance data
+        """,
 
-    'author': "My Company",
-    'website': "https://www.yourcompany.com",
+    'author': "Khondokar Md. Mehedi Hasan",
+    'website': "https://github.com/mehedi360272",
 
     'category': 'Human Resources',
     'version': '19.0.1.0.0',
