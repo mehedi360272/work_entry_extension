@@ -1,5 +1,5 @@
 {
-    'name': "Work Entry Extension",
+    'name': "Payroll Work Entry Extension",
 
     'summary': "Enhances HR work entries with additional tracking and customization",
 
