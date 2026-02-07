@@ -57,7 +57,7 @@ class HrVersion(models.Model):
         for a in attendances:
             atts_by_emp[a.employee_id.id].append(a)
 
-        # ✅ Build day-level Absent map: emp_id -> set(dates)
+        # Build day-level Absent map: emp_id -> set(dates)
         absent_dates_by_emp = defaultdict(set)
         for emp_id, atts in atts_by_emp.items():
             for att in atts:
